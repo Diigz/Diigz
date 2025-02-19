@@ -1,4 +1,4 @@
-<p align="left">Rodrigo Lima<br><br>Me chamo Rodrigo, tenho 20 anos e sou natural do Brasil. Atualmente, estou cursando o 3º semestre de Ciências da Computação e trabalho como Técnico de Suporte na Tecnocomp, atuando dentro da Mercedes-Benz. Tenho experiência com desenvolvimento web, design gráfico, edição audiovisual e SEO para YouTube.</p>
+<p align="left">Rodrigo Lima<br><br>Me chamo Rodrigo, tenho 20 anos e sou natural do Brasil. Atualmente, estou cursando o 3º semestre de Ciências da Computação e trabalho como Técnico de Suporte na Tecnocomp. Tenho experiência com desenvolvimento web, design gráfico, edição audiovisual e SEO para YouTube.</p>
 
 ###
 
