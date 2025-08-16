@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o Rodrigo (Diigz)
+# Olá 👋
 
 Estudante de Ciência da Computação | Técnico em Eletrônica  
 Técnico de Suporte (Júnior) • Em transição para Backend (Python/FastAPI) • Projetos em Arduino / IoT
