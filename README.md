@@ -1,4 +1,28 @@
-<p align="left">Rodrigo Lima<br><br>Me chamo Rodrigo, tenho 20 anos e sou natural do Brasil. Atualmente, estou cursando o 3º semestre de Ciências da Computação e trabalho como Técnico de Suporte na Tecnocomp. Tenho experiência com desenvolvimento web, design gráfico, edição audiovisual e SEO para YouTube.</p>
+# Olá 👋, eu sou o Rodrigo (Diigz)
+
+Estudante de Ciência da Computação | Técnico em Eletrônica  
+Técnico de Suporte (Júnior) • Em transição para Backend (Python/FastAPI) • Projetos em Arduino / IoT
+
+## Sobre mim
+- Experiência em suporte técnico: atendimento remoto/presencial, políticas de backup, administração de estações Windows.  
+- Projetos de hardware: Rastreador Solar (Arduino + sensores LDR) — projeto completo (circuito, código, testes).  
+- Atualmente estudando: Linux, Python (aplicações), Docker básico e deploy em serviços gratuitos.
+
+## Projetos em destaque
+- **Rastreador Solar (TCC Técnico)** — (descrição: Arduino + painel fotovoltaico; controle por LDR; testes e documentação).  
+
+## Competências
+- **Infra & Suporte:** Windows, Active Directory (noções), políticas de backup, redes LAN/Wi-Fi.  
+- **Dev:** Python (básico/intermediário), JavaScript (lógica), Git/GitHub, HTML/CSS.  
+- **Embarcado:** Arduino (C/C++), integração de sensores.  
+- **Ferramentas:** AnyDesk, ferramentas de ticket (GLPI/ServiceNow — mencionar se já usou), Excel avançado (validação).
+
+## Contato
+- 📧 rodrigoclima188@gmail.com  
+- 🔗 LinkedIn: linkedin.com/in/rodrigolimaz  
+- 🔗 Portfolio: github.com/Diigz/portfolio
+
+> Trabalhando atualmente para publicar um app backend com deploy e testes automatizados — confira a branch `deploy-demo`.
 
 ###
 
