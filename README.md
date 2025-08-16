@@ -22,8 +22,6 @@ Técnico de Suporte (Júnior) • Em transição para Backend (Python/FastAPI) �
 - 🔗 LinkedIn: linkedin.com/in/rodrigolimaz  
 - 🔗 Portfolio: github.com/Diigz/portfolio
 
-> Trabalhando atualmente para publicar um app backend com deploy e testes automatizados — confira a branch `deploy-demo`.
-
 ###
 
 <div align="center">
