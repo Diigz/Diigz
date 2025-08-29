@@ -15,7 +15,7 @@ Técnico de Suporte (Júnior) • Em transição para Backend (Python/FastAPI) �
 - **Ferramentas:** AnyDesk, ServiceNow, Excel intermediário.
 
 ## Contato
-- 📧 rodrigoclima188@gmail.com  
+- 📧 Email: rodrigoclima188@gmail.com  
 - 🔗 LinkedIn:[ (https://www.linkedin.com/in/rodrigolimaz/) ](https://www.linkedin.com/in/rodrigolimaz/)
 
 ###
