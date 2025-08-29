@@ -5,22 +5,18 @@ Técnico de Suporte (Júnior) • Em transição para Backend (Python/FastAPI) �
 
 ## Sobre mim
 - Experiência em suporte técnico: atendimento remoto/presencial, políticas de backup, administração de estações Windows.  
-- Projetos de hardware: Rastreador Solar (Arduino + sensores LDR) — projeto completo (circuito, código, testes).  
+- Projetos de hardware: Rastreador Solar (Arduino + sensores LDR).  
 - Atualmente estudando: Linux, Python (aplicações), Docker básico e deploy em serviços gratuitos.
-
-## Projetos em destaque
-- **Rastreador Solar (TCC Técnico)** — (descrição: Arduino + painel fotovoltaico; controle por LDR; testes e documentação).  
 
 ## Competências
 - **Infra & Suporte:** Windows, Active Directory (noções), políticas de backup, redes LAN/Wi-Fi.  
 - **Dev:** Python (básico/intermediário), JavaScript (lógica), Git/GitHub, HTML/CSS.  
 - **Embarcado:** Arduino (C/C++), integração de sensores.  
-- **Ferramentas:** AnyDesk, ferramentas de ticket (GLPI/ServiceNow — mencionar se já usou), Excel avançado (validação).
+- **Ferramentas:** AnyDesk, ServiceNow, Excel intermediário.
 
 ## Contato
 - 📧 rodrigoclima188@gmail.com  
 - 🔗 LinkedIn: linkedin.com/in/rodrigolimaz  
-- 🔗 Portfolio: github.com/Diigz/portfolio
 
 ###
 
