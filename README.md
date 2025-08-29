@@ -16,7 +16,7 @@ Técnico de Suporte (Júnior) • Em transição para Backend (Python/FastAPI) �
 
 ## Contato
 - 📧 rodrigoclima188@gmail.com  
-- 🔗 LinkedIn: linkedin.com/in/rodrigolimaz  
+- 🔗 LinkedIn:[ (https://www.linkedin.com/in/rodrigolimaz/) ](https://www.linkedin.com/in/rodrigolimaz/)
 
 ###
 
