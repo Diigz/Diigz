@@ -1,22 +1,16 @@
-# Olá 👋
+# 👋 Olá
 
-Estudante de Ciência da Computação | Técnico em Eletrônica  
-Técnico de Suporte (Júnior) • Em transição para Backend (Python/FastAPI) • Projetos em Arduino / IoT
+**Estudante de Ciência da Computação • Técnico em Eletrônica**  
+Técnico de Suporte (Júnior) em transição para Back-end (Python / FastAPI). Gosto de automação, rotinas de backup, e projetos embarcados (Arduino).  
 
-## Sobre mim
-- Experiência em suporte técnico: atendimento remoto/presencial, políticas de backup, administração de estações Windows.  
-- Projetos de hardware: Rastreador Solar (Arduino + sensores LDR).  
-- Atualmente estudando: Linux, Python (aplicações), Docker básico e deploy em serviços gratuitos.
+📫 Contato: rodrigoclima188@gmail.com · https://www.linkedin.com/in/rodrigolimaz  
+🔭 Atualmente: FastAPI, Docker básico, testes unitários (pytest), Linux.  
+🔧 Skills: Python, Git, SQL básico, Arduino, Windows Support, redes LAN/Wi-Fi.
 
-## Competências
-- **Infra & Suporte:** Windows, Active Directory (noções), políticas de backup, redes LAN/Wi-Fi.  
-- **Dev:** Python (básico/intermediário), JavaScript (lógica), Git/GitHub, HTML/CSS.  
-- **Embarcado:** Arduino (C/C++), integração de sensores.  
-- **Ferramentas:** AnyDesk, ServiceNow, Excel intermediário.
-
-## Contato
-- 📧 Email: rodrigoclima188@gmail.com  
-- 🔗 LinkedIn:[ (https://www.linkedin.com/in/rodrigolimaz/) ](https://www.linkedin.com/in/rodrigolimaz/)
+### Projetos em destaque
+1. **CRUD_Python** — CRUD e modelo de API (README detalhado no repo).  
+2. **OOP__Teste_API** — Estrutura OOP + testes (pytest) — com instruções para rodar localmente.  
+3. **Site_Desenvolvimento** — portfólio web estático (link de demo se tiver).
 
 ###
 
