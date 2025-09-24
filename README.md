@@ -10,7 +10,7 @@ Técnico de Suporte (Júnior) em transição para Back-end (Python / FastAPI). G
 ### Projetos em destaque
 1. **CRUD_Python** — CRUD e modelo de API (README detalhado no repo).  
 2. **OOP__Teste_API** — Estrutura OOP + testes (pytest) — com instruções para rodar localmente.  
-3. **Site_Desenvolvimento** — portfólio web estático (link de demo se tiver).
+3. **Site_Desenvolvimento** — portfólio web estático ([link de demo se tiver](https://diigz.github.io/Site_Desenvolvimento/)).
 
 ###
 
