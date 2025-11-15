@@ -1,7 +1,7 @@
 # 👋 Olá
 
 **Estudante de Ciência da Computação • Técnico em Eletrônica**  
-Técnico de Suporte (Júnior) em transição para Back-end (Python / FastAPI). Gosto de automação, rotinas de backup, e projetos embarcados (Arduino).  
+Técnico de Suporte (Júnior) em transição para Dev.
 
 📫 Contato: rodrigoclima188@gmail.com · https://www.linkedin.com/in/rodrigolimaz  
 🔭 Atualmente: FastAPI, Docker básico, testes unitários (pytest), Linux.  
