@@ -4,8 +4,7 @@
 Técnico de Suporte (Júnior) em transição para Dev.
 
 📫 Contato: rodrigoclima188@gmail.com · https://www.linkedin.com/in/rodrigolimaz  
-🔭 Atualmente: FastAPI, Docker básico, testes unitários (pytest), Linux.  
-🔧 Skills: Python, Git, SQL básico, Arduino, Windows Support, redes LAN/Wi-Fi.
+🔧 Skills: Python, Git, SQL, Windows Support, redes e etc...
 
 ### Projetos em destaque
 1. **CRUD_Python** — CRUD e modelo de API (README detalhado no repo).  
